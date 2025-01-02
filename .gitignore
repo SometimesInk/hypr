@@ -1,3 +1,7 @@
-# This image -- which is my wallpaper -- is modified on launch
+# This image -- which is my wallpaper -- is modified on launch.
 # See "https://github.com/SometimesInk/apod"
 wallpapers/active.png
+
+# This file is changed as my battery discharges.
+# See "https://github.com/SometimesInk/alerting"
+alerting.conf
